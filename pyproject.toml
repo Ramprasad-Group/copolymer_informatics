@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "copolymer_informatics"
+version = "1.0.0"
+description = "Copolymer Informatics with Multi-Task Neural Networks"
+authors = ["Christopher kuenneth <christopher.kuenneth@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+ipython = "^7.17.0"
+pandas = "^1.1.0"
+tensorflow = "^2.3.0"
+matplotlib = "^3.3.1"
+tensorflow-addons = "^0.11.2"
+keras-tuner = "^1.0.1"
+seaborn = "^0.11.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry_core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
