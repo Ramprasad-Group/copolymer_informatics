@@ -1,10 +1,9 @@
 # Copolymer informatics with multi-task neural networks
 
-This is the code for the paper (currently available at Arxiv ). It has two notebooks: The cross-validation models are trained in `cv_model.ipynb` and the meta learner is training in `meta_learner.ipynb`. The meta learner is deployed at https://polymergenome.org.
+This is the code for the paper "Copolymer Informatics with Multi-Task Deep Neural Networks" (currently available at [Arxiv](https://arxiv.org/abs/2103.14174)). It has two notebooks: The cross-validation models are trained in `cv_model.ipynb` and the meta learner is training in `meta_learner.ipynb`. The meta learner is deployed at https://polymergenome.org.
 
 
 ## Install
-
 
 1. Poetry must be installed 
 
